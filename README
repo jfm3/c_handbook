@@ -1,0 +1,7 @@
+Just say `make`.
+
+Makes a 6"x9" book suitable for publishing with lulu.com.  Using
+lulu.cls and pdflatex get all the fonts into the pdf and do all the
+other happy magic lulu.com needs.
+
+Pulchritude!
